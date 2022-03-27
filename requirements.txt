@@ -1,0 +1,10 @@
+pip
+setuptools
+pandas
+dash
+pytest
+dash-bootstrap-components
+selenium
+requests
+dash[testing]
+plotly
